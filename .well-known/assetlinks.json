@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.pablocuadrapareja911.ironblaze",
+        "sha256_cert_fingerprints": ["4B:FD:98:D6:9F:AE:46:47:3F:A3:0F:E5:AB:76:13:11:2A:12:FB:47:0A:E7:25:A5:94:45:B6:13:8B:AD:32:FC"]
+      }
+    }]
